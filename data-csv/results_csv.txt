@@ -1,0 +1,80 @@
+Column: Country name
+Number of entries: 153
+Sample values: Finland, Denmark, Switzerland, Iceland, Norway
+
+Column: Regional indicator
+Number of entries: 153
+Sample values: Western Europe, Western Europe, Western Europe, Western Europe, Western Europe
+
+Column: Ladder score
+Number of entries: 153
+Sample values: 7.808700085, 7.645599842, 7.559899807, 7.504499912, 7.487999916
+
+Column: Standard error of ladder score
+Number of entries: 153
+Sample values: 0.031156305, 0.033492286, 0.035014171, 0.059615862, 0.034837384
+
+Column: upperwhisker
+Number of entries: 153
+Sample values: 7.869766235, 7.711244583, 7.628527641, 7.621346951, 7.55628109
+
+Column: lowerwhisker
+Number of entries: 153
+Sample values: 7.747633934, 7.579955101, 7.491271973, 7.387652874, 7.419718742
+
+Column: Logged GDP per capita
+Number of entries: 153
+Sample values: 10.63926697, 10.77400112, 10.97993279, 10.77255917, 11.08780384
+
+Column: Social support
+Number of entries: 153
+Sample values: 0.954329729, 0.955990791, 0.942846596, 0.974669576, 0.952486575
+
+Column: Healthy life expectancy
+Number of entries: 153
+Sample values: 71.9008255, 72.40250397, 74.10244751, 73, 73.20078278
+
+Column: Freedom to make life choices
+Number of entries: 153
+Sample values: 0.949172199, 0.951444268, 0.921336651, 0.948891878, 0.955750287
+
+Column: Generosity
+Number of entries: 153
+Sample values: -0.059482019, 0.066201776, 0.105911039, 0.246944219, 0.13453263
+
+Column: Perceptions of corruption
+Number of entries: 153
+Sample values: 0.195444584, 0.168489456, 0.303728431, 0.711709738, 0.263218194
+
+Column: Ladder score in Dystopia
+Number of entries: 153
+Sample values: 1.972316742, 1.972316742, 1.972316742, 1.972316742, 1.972316742
+
+Column: Explained by: Log GDP per capita
+Number of entries: 153
+Sample values: 1.285189509, 1.326948524, 1.39077425, 1.326501608, 1.42420733
+
+Column: Explained by: Social support
+Number of entries: 153
+Sample values: 1.499525905, 1.503449202, 1.472403407, 1.547567487, 1.495172501
+
+Column: Explained by: Healthy life expectancy
+Number of entries: 153
+Sample values: 0.961271405, 0.979332566, 1.040533185, 1.000843406, 1.008071899
+
+Column: Explained by: Freedom to make life choices
+Number of entries: 153
+Sample values: 0.66231674, 0.665039897, 0.62895447, 0.661980748, 0.670200884
+
+Column: Explained by: Generosity
+Number of entries: 153
+Sample values: 0.159670442, 0.242793396, 0.269055754, 0.362330228, 0.287985086
+
+Column: Explained by: Perceptions of corruption
+Number of entries: 153
+Sample values: 0.477857262, 0.495260328, 0.407945901, 0.144540772, 0.434100568
+
+Column: Dystopia + residual
+Number of entries: 153
+Sample values: 2.762835026, 2.432740688, 2.35026741, 2.460688114, 2.168266296
+
